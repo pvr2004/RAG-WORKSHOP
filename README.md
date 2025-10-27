@@ -12,7 +12,7 @@ RAG_Workshop/
 ├── RAG_Demo-venv.ipynb      # Main workshop notebook
 ├── test_rag_setup.py        # Environment verification script (optional)
 └── SetUp.html               # Original workshop setup guide
-
+ 
 MY RAG SYSTEM
 TOPIC: Used lecture PDFs of my NPTEL course on E-Business
 
